@@ -1,2 +1,16 @@
 // you can change colors here
 $theme-color: #ff9b9b;
+
+@font-face {
+    font-family: "Block";
+    src:
+      url("/unifont.woff2") format("woff2"),
+      url("/unifont.woff") format("woff");
+}
+
+  
+$font-family: 'Block';
+
+$font-family-heading: 'Block';
+
+$font-family-mono: 'Block';

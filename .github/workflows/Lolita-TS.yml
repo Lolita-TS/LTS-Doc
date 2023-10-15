@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  lolita-ts:
+  lolita_ts:
     runs-on: ubuntu-latest
     steps:
       - name: Get到惹！
