@@ -7,8 +7,8 @@ on:
       - Lolita
   workflow_dispatch:
 
-#permissions:
-#  contents: write
+permissions:
+  contents: write
 
 jobs:
   lolita-ts:
